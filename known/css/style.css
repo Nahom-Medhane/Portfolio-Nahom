@@ -1,0 +1,134 @@
+#green{
+	background:#56F58B;
+	height:50px;
+}
+
+#navbar{
+	box-shadow: 0px 0px 10px  0px grey;
+}
+
+
+
+#card{
+  box-shadow: 10px 10px 2px 1px white;
+  padding: 10px;
+  margin:10px;
+}
+
+.numbers{
+background:#466AEB;
+  box-shadow: 2px 2px 2px 2px #466AEB;
+  border-radius: 50px;
+  padding: 10px;
+
+} 
+
+.Trending{
+   font-weight: bold;
+}
+
+#sign-up{
+	background:black;
+	border-radius: 200px;
+	text-align: center;
+	width:400px;
+	height:400px;
+	padding: 20px;
+	margin:10px;
+	color:white;
+}
+
+#inside{
+	position: relative;
+	top:30px;
+}
+
+.input1{
+	width:300px;
+	border: 0px solid white;
+	border-bottom: 2px solid white;
+	background: black;
+    color:white;
+}
+
+#container1{
+	background:#EBF5F5;
+	height:110%;
+	
+	
+}
+img{
+	 width: 100%;
+}
+
+#col-12-1{
+     height:220px;
+     background:white;
+}
+
+#col-12-2{
+	 height:200px;
+     background:#EBF5F5;
+
+}
+
+#container2{
+	background:#6255D9;
+}
+
+
+#form-control{
+	height:50px;
+	border-radius: 15px;
+
+}
+
+
+#form-control-textarea{
+	height: 120px;
+    border-radius: 15px;
+}
+
+#form-control-btn{
+	height: 50px;
+	border-radius: 30px;
+	
+}
+
+.container3
+{
+	background:black;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+li {
+  display: inline;
+  float:left;
+
+}
+
+li a{
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color:grey;
+}
+
+li a:hover{
+	background:grey;
+	border-radius: 50px;
+}
+
+.all{
+	color:white;
+}
+
+.all-s{
+	color:#5E5E5E;
+}
