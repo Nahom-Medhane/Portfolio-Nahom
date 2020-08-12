@@ -81,7 +81,7 @@ form{
 	position: relative;
 	left:1%;
 		top: 40px;
-	width:480px;
+	width:80%;
 	height:600px;
 	background:white;
 	box-shadow: 1px 2px 8px 1px grey;
@@ -95,14 +95,14 @@ input{
 	left:5%;
 	border:white solid 2px;
 	border-bottom-color:lightblue;
-	width:400px;
+	width:80%;
 	padding: 20px
 }
 
 textarea{
 	position: relative;
 	left:5%;
-	width:400px;
+	width:80%;
 	border:white solid 2px;
 	border-bottom-color:lightblue;
 }
