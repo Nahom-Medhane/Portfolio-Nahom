@@ -62,8 +62,9 @@ body {
 
 .second-section{
 	width:100%;
+		padding: 20% 20% 10% 40px;
 	background-repeat: no-repeat;
-	padding: 20% 20% 10% 30px;
+
 
 }
 
@@ -159,7 +160,7 @@ textarea{
 	width:400px;
 	color:black;
 	background: #EBF0F0;
-    margin: 10px;
+    margin: 20px;
 	height:250px;
 	
 }
