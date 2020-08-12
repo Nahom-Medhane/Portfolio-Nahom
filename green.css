@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root{
 	--mainColor:#606B56;
 	--secondaryColor:#515a48;
@@ -17,3 +18,24 @@
 
 
 }
+=======
+:root{
+	--mainColor:#606B56;
+	--secondaryColor:#515a48;
+
+	--borderColor:#161914;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:rgb(81, 90, 72, 0.8);
+	--previewShadow:#2a2f25;
+
+
+	--buttonColor:#669966;
+
+
+}
+>>>>>>> 4b463e3d3ca8040f83c1142115499faeef776a4f

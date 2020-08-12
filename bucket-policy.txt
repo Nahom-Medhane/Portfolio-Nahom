@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "Version": "2008-10-17",
     "Statement": [
@@ -11,4 +12,19 @@
             "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
         }
     ]
+=======
+{
+    "Version": "2008-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowPublicRead",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "*"
+            },
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+        }
+    ]
+>>>>>>> 4b463e3d3ca8040f83c1142115499faeef776a4f
 }
